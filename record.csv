@@ -1,0 +1,153 @@
+Year      ,Type ,C3                  ,C4
+
+1557      ,CW   ,Portugal            ,Macau
+1607      ,CW   ,England             ,Jamestown Virginia
+1619      ,CW   ,Netherlands         ,New Netherlands (later New York)
+1620      ,CW   ,England             ,Plymouth Colony Massachusetts
+1624      ,CW   ,Netherlands         ,New Amsterdam (later New York City)
+1626      ,CW   ,Netherlands         ,Manhattan Island (purchased from Native Americans)
+1634      ,CW   ,France              ,Quebec City
+1664      ,CW   ,England             ,New Amsterdam (captured from the Dutch and renamed New York)
+1682      ,CW   ,France              ,Louisiana Territory
+1756      ,CW   ,Britain             ,France - North America (French and Indian War or Seven Years' War) (1756–1763)
+1763      ,CW   ,Britain             ,North America (Treaty of Paris)
+1775      ,W    ,United States       ,Great Britain (American Revolutionary War)
+1776      ,CW   ,Thirteen Colonies   ,Independence from Britain
+1783      ,CW   ,Britain             ,North America (Treaty of Paris)
+1788      ,CW   ,Britain             ,Australia - New South Wales (Established as a British penal colony)
+1803      ,CW   ,Britain             ,Australia - Tasmania (Van Diemen's Land) (Established as a penal colony)
+1803      ,CW   ,United States       ,Louisiana Territory (Louisiana Purchase from France)
+1812      ,W    ,United States       ,Great Britain (War of 1812)
+1823      ,CW   ,United States       ,Monroe Doctrine (opposition to European colonization in the Americas)
+1829      ,CW   ,Britain             ,Australia - Western Australia (Established as a penal colony)
+1830      ,CW   ,United States       ,Indian Removal Act (forced relocation of Native American tribes)
+1836      ,CW   ,Britain             ,Australia - South Australia (Established as a free settlement)
+1839-1842 ,W    ,China               ,Britain (First Opium War)
+1846      ,W    ,United States       ,Mexico (Mexican-American War)
+1848      ,CW   ,United States       ,Mexican Cession (Treaty of Guadalupe Hidalgo)
+1850-1864 ,CVW  ,China               ,Qing Dynasty Taiping Heavenly Kingdom (Taiping Rebellion)
+1851      ,CW   ,Britain             ,Australia - Victoria (Separate colony established after the discovery of gold)
+1853-1856 ,W    ,Russia              ,Ottoman Empire Britain France (Crimean War)
+1856-1860 ,W    ,China               ,Western Powers (Second Opium War)
+1859      ,CW   ,Britain             ,Australia - Queensland (Separated from New South Wales)
+1861      ,W    ,United States       ,Confederate States (American Civil War)
+1867      ,CW   ,British             ,Singapore Crown colony 1867–1942
+1867      ,CW   ,United States       ,Alaska (Purchase from Russia)
+1877-1878 ,W    ,Russia              ,Ottoman Empire (Russo-Turkish War)
+1884-1885 ,W    ,China               ,France (Sino-French War)
+1894-1895 ,FW   ,China               ,Japan (First Sino-Japanese War)
+1895      ,CW   ,Japan               ,Taiwan (Treaty of Shimonoseki) from China
+1898      ,CW   ,United States       ,"Philippines (Spanish-American War)"
+1898      ,CW   ,United States       ,"Puerto Rico, Guam (Spanish-American War)"
+1898      ,W    ,United States       ,Spain (Spanish-American War)
+1899      ,W    ,Boxer Rebellion     ,Eight-Nation Alliance
+1900      ,CW   ,United States       ,American Samoa
+1901      ,CW   ,Britain             ,Australia (Federation of the Australian colonies into the Commonwealth of Australia)
+1904-1905 ,W    ,Russia              ,Japan (Russo-Japanese War)
+1911      ,CVW  ,Qing Dynasty        ,Revolutionaries (Xinhai Revolution)
+1914-1918 ,W    ,Russia              ,Central Powers (World War I)
+1917      ,CW   ,United States       ,"Puerto Rico, Guam, Philippines (Transfer from Spain after Spanish-American War)"
+1917      ,CW   ,United States       ,Virgin Islands (purchased from Denmark)
+1917      ,W    ,United States       ,Germany (World War I)
+1918-1921 ,CVW  ,Russia              ,Bolsheviks vs White Army (Russian Civil War)
+1919      ,CW   ,Britain             ,Iraq (League of Nations mandate)
+1919      ,CW   ,Britain/France      ,Palestine (League of Nations mandate)
+1919      ,CW   ,France              ,Syria (League of Nations mandate)
+1919      ,CW   ,Japan               ,Korea (Treaty of Versailles)
+1920      ,CW   ,Britain             ,Iraq (League of Nations mandate)
+1920      ,CW   ,Britain             ,Palestine (League of Nations mandate)
+1920      ,CW   ,France              ,Cameroon (League of Nations mandate)
+1920      ,CW   ,France              ,Togoland (League of Nations mandate)
+1920      ,CW   ,Italy               ,Libya (Treaty of Versailles)
+1920      ,CW   ,Japan               ,Micronesia (League of Nations mandate)
+1922      ,CW   ,Britain             ,Egypt (Declaration of independence)
+1931      ,CW   ,Japan               ,Manchuria - China (Mukden Incident)
+1935      ,CW   ,Italy               ,Ethiopia
+1937-1945 ,W    ,China               ,Japan (Second Sino-Japanese War)
+1938      ,CW   ,Germany             ,Austria (Anschluss)
+1939      ,CW   ,Germany             ,Czechoslovakia (Munich Agreement)
+1939      ,CW   ,Germany             ,Western Poland (Invasion of Poland)
+1939      ,CW   ,Soviet Union        ,Eastern Poland (Molotov-Ribbentrop Pact)
+1939      ,W    ,Russia/Soviet Union ,Finland (Winter War)
+1940      ,CW   ,Germany             ,France (Invasion of France)
+1940      ,CW   ,Soviet Union        ,Baltic States (Molotov-Ribbentrop Pact)
+1941      ,CW   ,Japan               ,Burma (Invasion of Burma)
+1941      ,CW   ,Japan               ,Dutch East Indies (Invasion of Dutch East Indies)
+1941      ,CW   ,Japan               ,French Indochina
+1941      ,CW   ,Japan               ,Guam (Invasion of Guam)
+1941      ,CW   ,Japan               ,Hong Kong (Invasion of Hong Kong)
+1941      ,CW   ,Japan               ,Malaya (Invasion of Malaya)
+1941      ,CW   ,Japan               ,New Guinea (Invasion of New Guinea)
+1941      ,CW   ,Japan               ,Singapore (Fall of Singapore)
+1941      ,CW   ,Japan               ,Solomon Islands (Invasion of Solomon Islands)
+1941      ,CW   ,Japan               ,Thailand (Thailand-Japan Alliance)
+1941      ,CW   ,Japan               ,Wake Island (Invasion of Wake Island)
+1941      ,CW   ,United States       ,Wake Island (Attack on Pearl Harbor)
+1941      ,W    ,United States       ,Germany (World War II - European Theater)
+1941      ,W    ,United States       ,Japan (World War II - Pacific Theater)
+1941-1945 ,W    ,Russia/Soviet Union ,Germany Axis Powers (World War II Eastern Front)
+1942      ,CW   ,Japan               ,Burma (Occupation of Burma)
+1942      ,CW   ,Japan               ,Dutch East Indies (Occupation of Dutch East Indies)
+1942      ,CW   ,Japan               ,Guam (Occupation of Guam)
+1942      ,CW   ,Japan               ,Hong Kong China (Occupation of Hong Kong from until 1945)
+1942      ,CW   ,Japan               ,New Guinea (Occupation of New Guinea)
+1942      ,CW   ,Japan               ,Philippines (Occupation of Philippines)
+1942      ,CW   ,Japan               ,Singapore (Occupied by Japan 1942–1945)
+1942      ,CW   ,Japan               ,Solomon Islands (Occupation of Solomon Islands)
+1942      ,CW   ,Japan               ,Thailand (Thailand-Japan Alliance)
+1942      ,CW   ,Japan               ,Wake Island (Occupation of Wake Island)
+1942      ,I    ,Australia           ,Independence from Britain Statute of Westminster Adoption Act 1942
+1942-1945 ,CW   ,Japan               ,Hong Kong China (Occupation of Hong Kong)
+1943      ,CW   ,Britain             ,Burma (Battle of Burma)
+1943      ,CW   ,United States       ,Philippines (Battle of Philippines)
+1943      ,I    ,Lebanon             ,France
+1944      ,CW   ,United States       ,Mariana Islands (Battle of Guam)
+1944      ,CW   ,United States       ,Mariana Islands (Battle of Saipan)
+1944      ,CW   ,United States       ,Mariana Islands (Battle of Tinian)
+1945      ,CVW  ,China               ,Nationalist Government and Communist Party of China
+1945      ,CW   ,United States       ,Iwo Jima (Battle of Iwo Jima)
+1945      ,CW   ,United States       ,Okinawa (Battle of Okinawa)
+1945      ,R    ,Hong Kong           ,Return to Britain
+1945      ,R    ,Taiwan              ,Return to Republic of China
+1946      ,I    ,Jordan              ,Britain
+1946      ,I    ,Philippines         ,United States
+1946      ,I    ,Syria               ,France
+1947      ,I    ,India               ,Britain
+1947      ,I    ,Pakistan            ,Britain
+1947      ,W    ,Israel              ,Arab League states (Arab–Israeli War / Israeli War of Independence)
+1948      ,I    ,Israel              ,Britain
+1948      ,I    ,Myanmar (Burma)     ,Britain
+1948      ,I    ,Sri Lanka (Ceylon)  ,Britain
+1949      ,I    ,Indonesia           ,Netherlands
+1950      ,W    ,United States       ,North Korea (Korean War)
+1950-1953 ,W    ,China               ,United States forces (Korean War)
+1951      ,I    ,Libya               ,Italy
+1953      ,I    ,Cambodia            ,France
+1954      ,I    ,Laos                ,France
+1954      ,I    ,Vietnam             ,France
+1956      ,I    ,Morocco             ,France
+1956      ,I    ,Sudan               ,Britain and Egypt
+1956      ,I    ,Tunisia             ,France
+1956      ,W    ,Israel              ,Egypt Britain France (Suez Crisis)
+1957      ,I    ,Ghana               ,Britain
+1957      ,I    ,Malaysia            ,Britain
+1960      ,I    ,Nigeria             ,Britain
+1964      ,W    ,United States       ,North Vietnam (Vietnam War)
+1965      ,I    ,Singapore           ,Britain
+1967      ,W    ,Israel              ,Six-Day War Egypt Jordan Syria
+1973      ,W    ,Israel              ,Yom Kippur War Egypt Syria
+1979      ,W    ,China               ,Vietnam (Sino-Vietnamese War)
+1979-1989 ,W    ,Russia/Soviet Union ,Afghanistan (Soviet-Afghan War)
+1982      ,W    ,Israel              ,First Lebanon War
+1990      ,W    ,United States       ,Iraq (Gulf War)
+1994-1996 ,CW   ,Russia              ,Chechnya (First Chechen War)
+1997      ,R    ,Hong Kong           ,Return to China from Britain
+1999      ,R    ,Macau               ,Return to China from Portugal
+1999-2009 ,CW   ,Russia              ,Chechnya (Second Chechen War)
+2001      ,W    ,United States       ,Afghanistan (War in Afghanistan)
+2003      ,W    ,United States       ,Iraq (Iraq War)
+2006      ,W    ,Israel              ,Hezbollah Second Lebanon War
+2008      ,CW   ,Russia              ,Georgia (Georgia-Russia War)
+2014      ,CW   ,Russia              ,Ukraine (Annexation of Crimea)
+2022      ,CS   ,Russia              ,Ukraine
+2023      ,W    ,Israel              ,Hamas Israel–Hamas war
