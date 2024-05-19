@@ -1,5 +1,4 @@
 Year      ,Type ,C3                  ,C4
-
 1337-1453 ,W    ,Britain             ,England vs. France (Hundred Years' War)
 1337-1453 ,W    ,France              ,Hundred Years' War (England)
 1519-1821 ,CW   ,Spain               ,Mexico (Spanish colonization of Mexico)
@@ -36,6 +35,7 @@ Year      ,Type ,C3                  ,C4
 1846-1848 ,CW   ,United States       ,"Mexico lost nowaday California, Nevada, Utah, Arizona, New Mexico, Colorado, Wyoming and Texas via Mexican-American War"
 1850-1864 ,CVW  ,China               ,Qing Dynasty Taiping Heavenly Kingdom (Taiping Rebellion)
 1851      ,CW   ,Britain             ,Australia - Victoria (Separate colony established after the discovery of gold)
+1853      ,W    ,United States       ,"Japan, Perry Expedition forced Japan to open to trade, caused Minji Restoration"
 1853-1856 ,W    ,Britain             ,"Britain, France, Ottoman Empire vs. Russia (Crimean War)"
 1853-1856 ,W    ,Russia              ,"vs Ottoman Empire, Britain, France (Crimean War)"
 1856-1860 ,W    ,China               ,"vs Great Britain and France, United States etc (Second Opium War)"
